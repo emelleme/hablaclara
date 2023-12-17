@@ -61,7 +61,7 @@ Feel free to fork the repository, make improvements, and open pull requests. We 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
 
 ----------
 
